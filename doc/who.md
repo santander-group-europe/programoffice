@@ -52,7 +52,7 @@ The following table shows the ISPO people, together to their roles and responsib
     </tbody>
 </table>
 
-#### Head of Unit
+### Head of Unit
 
 **Jesús Alonso**
 **e-mail**: jesus.alonsogutierrez@gruposantander.es
@@ -61,7 +61,7 @@ The following table shows the ISPO people, together to their roles and responsib
 * Define mission and vision, guide the initiative to attract new projects.
 * Take care of schedule, efforts, existing projects, pain points, and act as facilitator and contact point.
 
-#### InnerSource Specialists
+### InnerSource Specialists
 
 **Daniel Izquierdo**
 **e-mail**: dizquierdo@bitergia.com
@@ -77,7 +77,7 @@ The following table shows the ISPO people, together to their roles and responsib
 * Some specific actions related with the previous point are activities like training, developing guidelines, etc.
 * Metrics Platform data exploitation.
 
-#### Metrics Platform Support
+### Metrics Platform Support
 
 To be defined.
 
@@ -85,7 +85,7 @@ To be defined.
 * Metrics Platform deployment, maintenance, bug fixing, and upgrades.
 * Support.
 
-#### Community Manager / Evangelist
+### Community Manager / Evangelist
 
 To be defined.
 

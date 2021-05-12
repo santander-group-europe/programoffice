@@ -12,4 +12,4 @@
 ## Resources
 The **InnerSource Program Office** currently offers the following resources to help on your InnerSource journey:
 
-* [InnerSource Template Project](): a GitHub project to be used as template for creating InnerSource ready projects.
+* [InnerSource Template Project](#) (to be added): a GitHub project to be used as template for creating InnerSource ready projects.
