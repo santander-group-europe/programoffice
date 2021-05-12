@@ -55,7 +55,7 @@ The following table shows the ISPO people, together to their roles and responsib
 ### Head of Unit
 
 **Jesús Alonso**
-**e-mail**: jesus.alonsogutierrez@gruposantander.es
+- **e-mail**: jesus.alonsogutierrez@gruposantander.es
 
 **Responsibilities**
 * Define mission and vision, guide the initiative to attract new projects.
@@ -64,10 +64,10 @@ The following table shows the ISPO people, together to their roles and responsib
 ### InnerSource Specialists
 
 **Daniel Izquierdo**
-**e-mail**: dizquierdo@bitergia.com
+- **e-mail**: dizquierdo@bitergia.com
 
 **Alberto Pérez**
-**e-mail**: alpgarcia@bitergia.com
+- **e-mail**: alpgarcia@bitergia.com
 
 **Responsibilities**
 * Assist and help projects to:
