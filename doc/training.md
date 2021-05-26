@@ -20,27 +20,29 @@ There are three main levels where the InnerSource Office can help with:
 * T&O Level: Generic trainings and use cases to the T&O Europe as a whole. The motivation here is to share general concepts about InnerSource, use cases, and specific technical topics but with a broad perspective.
 * Per project training to help advance in specific topic. As members of the office are embedded in some projects, this may help to uncover some pain points where training can deal with. 
 * Learning by doing, workshops, and hands-on when needed with specific members and at any level. 
+
 The main topics to cover could be the following ones:
+
 * Cultural Goals:
-** Transparency
-*** Openness and what this means.
-** Collaboration.
-*** Open discussions, netiquette.
-*** Ticketing systems and Pull Requests.
-*** The structure of a good pull request.
-** Community.
-*** Working in the open.
-*** Public talks.
-** Meritocracy.
-*** The Trusted Committer, role and responsibilities.
+  - Transparency
+     - Openness and what this means.
+  - Collaboration.
+     - Open discussions, netiquette.
+     - Ticketing systems and Pull Requests.
+     - The structure of a good pull request.
+  - Community.
+     - Working in the open.
+     - Public talks.
+  - Meritocracy.
+     - The Trusted Committer, role and responsibilities.
 * Process Improvement:
-** Pull Request.
-** Code Review.
-** Automated Testing, moving testing to the beginning of the development chain.
+  - Pull Request.
+  - Code Review.
+  - Automated Testing, moving testing to the beginning of the development chain.
 * Tooling:
-** Using Git.
-** Using GitHub.
-** Using Jira.
+  - Using Git.
+  - Using GitHub.
+  - Using Jira.
 
 Type of meetings:
 
