@@ -5,7 +5,7 @@
  </a>
 </h2>
 
-[ [Home](/README.md) ] [ [Vision & Mission](/doc/vision-and-mission.md) ] [ [Governance](/doc/governance.md) ] [ [Resources](/doc/resources.md) ] [ [Get Involved](/doc/get-involved.md) ] [ **Who** ]
+[ [Home](/README.md) ] [ [Vision & Mission](/doc/vision-and-mission.md) ] [ [Governance](/doc/governance.md) ] [ [Resources](/doc/resources.md) ] [ [Get Involved](/doc/get-involved.md) ] [ **Who** ] [ [Training](/doc/training.md) ]
 
 ---
 
