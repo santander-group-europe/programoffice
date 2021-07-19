@@ -5,7 +5,7 @@
  </a>
 </h2>
 
-[ [Home](/README.md) ] [ [Vision & Mission](/doc/vision-and-mission.md) ] [ [Governance](/doc/governance.md) ] [ [Resources](/doc/resources.md) ] [ **Get Involved** ] [ [Who](/doc/who.md) ]
+[ [Home](/README.md) ] [ [Vision & Mission](/doc/vision-and-mission.md) ] [ [Governance](/doc/governance.md) ] [ [Resources](/doc/resources.md) ] [ **Get Involved** ] [ [Who](/doc/who.md) ] [ [Training](/doc/training.md) ]
 
 ---
 
@@ -31,4 +31,4 @@ There are several columns:
 * Review: once someone has finished to work on a given task, this is the column to let other review the work done.
 * Done: this is the last step before officially closing the task. During the ISPO meetings, these tasks may be simply closed, or other tickets may be created at some point.
 
-The recommendation is to move tasks from the left to the right in the kanban, and avoid moving tasks to the left again when possible. Remember to add yourself as assignee of the task if you are working on it. This will let other know that you are the owner of this task at least for a while. 
+The recommendation is to move tasks from the left to the right in the kanban, and avoid moving tasks to the left again when possible. Remember to add yourself as assignee of the task if you are working on it. This will let other know that you are the owner of this task at least for a while.
