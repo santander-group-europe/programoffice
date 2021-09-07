@@ -15,14 +15,14 @@ The **InnerSource Program Office** aspires to be the place to share the knowledg
 When a project or team decides to jump into the InnerSource way of working, the ISPO should be the place to get help and advice, and also to give help and advice to others later on.
 
 ## Mission
-* Fostering cross-collaboration, transparency, reuse, and optimization.
+* Foster cross-collaboration, transparency, reuse, and optimization.
   - Communicate, announce, facilitate the contact among people and projects.
 * Educate InnerSource stakeholders.
-* On-boarding mentoring.
-* Developers engagement and talent retention.
+* Mentor on-boarding.
+* Engage developers and retain talent.
 * Provide help:
-  - creating a community culture
-  - adopting InnerSource tools and processes
-  - using metrics and KPI's to track InnerSource adoption
-  - defining standard policies for contributions
+  - create a community culture
+  - adopt InnerSource tools and processes
+  - use metrics and KPI's to track InnerSource adoption
+  - define standard policies for contributions
 * Provide resources to ease projects to start creating or moving their work into an InnerSource model.
