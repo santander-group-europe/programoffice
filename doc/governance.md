@@ -23,7 +23,7 @@ In InnerSource, governance is described in the "governance model" document, defi
 
 | Role  | Members | Objective |
 | -     | -       | -         |
-| ISPO  | J. Alonso<br />D. Izquierdo<br />A. Pérez<br />L. Cañas | ​Project Assistance / Inter domain Facilitator: define mission and vision, guide the initiative to attract new projects, take care of schedule, efforts, existing projects, pain points.​ <br /> Assist and help projects advance their InnerSource initiative and execute plan and deal with other areas. <br /> Dynamize the IS initiative.​ <br /> Metrics Platform Data Exploitation |
+| ISPO  | J. Alonso<br />D. Izquierdo<br />A. Pérez<br />L. Cañas<br />I. Zubiaurre | ​Project Assistance / Inter domain Facilitator: define mission and vision, guide the initiative to attract new projects, take care of schedule, efforts, existing projects, pain points.​ <br /> Assist and help projects advance their InnerSource initiative and execute plan and deal with other areas. <br /> Dynamize the IS initiative.​ <br /> Metrics Platform Data Exploitation |
 | Trusted Committer  | Depending on the project | Is the Host Team. Responsible for both building the house and setting the house rules to ensure their guests are comfortable and can work together effectively.  |
 | Champion | TBC (1 per Project) | Act as focal point within the project to help  advance the plan, establish and implement processes, policies, methodology, and achieve milestones. |
 | Contributor | Anyone | Makes contributions to the project. These contributions could be code or non-code artifacts, such as bug reports, feature requests, or documentation (may or may not be part of the community). |
