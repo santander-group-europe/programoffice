@@ -38,6 +38,10 @@ The following table shows the ISPO people, together to their roles and responsib
             <td>Alberto Pérez</td>
             <td>alpgarcia@bitergia.com</td>
         </tr>
+        <tr>
+            <td>Igor Zubiaurre</td>
+            <td>izubiaurre@bitergia.com</td>
+        </tr>
         <tr />
         <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
@@ -68,6 +72,9 @@ The following table shows the ISPO people, together to their roles and responsib
 
 **Alberto Pérez**
 - **e-mail**: alpgarcia@bitergia.com
+
+**Igor Zubiaurre**
+- **e-mail**: izubiaurre@bitergia.com
 
 **Responsibilities**
 * Assist and help projects to:
