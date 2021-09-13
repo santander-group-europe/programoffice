@@ -35,6 +35,10 @@ The following table shows the ISPO people, together to their roles and responsib
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
             <td>Alberto Pérez García-Plaza</td>
         </tr>
+        <tr>
+            <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
+            <td>Igor Zubiaurre García</td>
+        </tr>
            <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
             <td>To be defined</td>
@@ -49,6 +53,7 @@ The following table shows the ISPO people, together to their roles and responsib
 ### Head of Unit
 
 **Jesús Alonso Gutiérrez**
+[LinkedIn Contact](https://www.linkedin.com/in/jesus-alonso-guti%C3%A9rrez-b3b13399/)
 
 **Responsibilities**
 * Define mission and vision, guide the initiative to attract new projects.
@@ -57,8 +62,13 @@ The following table shows the ISPO people, together to their roles and responsib
 ### InnerSource Specialists
 
 **Daniel Izquierdo Cortázar**
+[LinkedIn Contact](https://www.linkedin.com/in/dicortazar/)
 
 **Alberto Pérez García-Plaza**
+[LinkedIn Contact](https://www.linkedin.com/in/alpgarcia/)
+
+**Igor Zubiaurre García**
+[LinkedIn Contact](https://www.linkedin.com/in/igor-zubiaurre/)
 
 **Responsibilities**
 * Assist and help projects to:
