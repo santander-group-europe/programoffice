@@ -52,8 +52,7 @@ The following table shows the ISPO people, together to their roles and responsib
 
 ### Head of Unit
 
-**Jesús Alonso Gutiérrez**
-[LinkedIn Contact](https://www.linkedin.com/in/jesus-alonso-guti%C3%A9rrez-b3b13399/)
+[**Jesús Alonso Gutiérrez**](https://github.com/jesusalonsogut)
 
 **Responsibilities**
 * Define mission and vision, guide the initiative to attract new projects.
@@ -61,14 +60,11 @@ The following table shows the ISPO people, together to their roles and responsib
 
 ### InnerSource Specialists
 
-**Daniel Izquierdo Cortázar**
-[LinkedIn Contact](https://www.linkedin.com/in/dicortazar/)
+[**Daniel Izquierdo Cortázar**](https://github.com/dicortazar)
 
-**Alberto Pérez García-Plaza**
-[LinkedIn Contact](https://www.linkedin.com/in/alpgarcia/)
+[**Alberto Pérez García-Plaza**](https://github.com/alpgarcia)
 
-**Igor Zubiaurre García**
-[LinkedIn Contact](https://www.linkedin.com/in/igor-zubiaurre/)
+[**Igor Zubiaurre García**](https://github.com/fioddor)
 
 **Responsibilities**
 * Assist and help projects to:
