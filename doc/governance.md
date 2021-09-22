@@ -56,5 +56,5 @@ The following tools are available for the community to build the open space of t
 | Documentation Platform​ | Confluence Software by Atlassian (SaaS)<br />GitHub Pages<br />Microsoft Teams ISPO channels​ |
 | Forums or Chat Platform​ | Microsoft Teams​ |
 | Metrics  & KPIs Platform​ | GrimoireLab (Front TBC)​ |
-| Projects single entry point​ | InnerSource Portal in the InnerSource Microsoft Teams​​ |
-| Announcements and news​ | InnerSource Portal in the InnerSource Microsoft Teams​ <br /> Microsoft Teams channel​ |
+| Projects single entry point​ | Santander InnerSource Portal​​ |
+| Announcements and news​ | Santander InnerSource Portal​ <br /> Microsoft Teams InnerSource Community​ |
