@@ -38,15 +38,16 @@ The following table shows the ISPO people, together to their roles and responsib
         <tr>
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
             <td rowspan=1>Igor Zubiaurre García</td>
+                 <tr>
+            <td><a href="#community-manager--evangelist">Community Manager/Evangelist</td>
+            <td>Enrique Cano López</td>
+        </tr>
         </tr>
            <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
             <td>To be defined</td>
         </tr>
-        <tr>
-            <td><a href="#community-manager--evangelist">Community Manager/Evangelist</td>
-            <td>Enrique Cano López</td>
-        </tr>
+
     </tbody>
 </table>
 
@@ -74,17 +75,9 @@ The following table shows the ISPO people, together to their roles and responsib
 * Some specific actions related with the previous point are activities like training, developing guidelines, etc.
 * Metrics Platform data exploitation.
 
-### Metrics Platform Support
-
-To be defined.
-
-**Responsibilities**
-* Metrics Platform deployment, maintenance, bug fixing, and upgrades.
-* Support.
-
 ### Community Manager / Evangelist
 
-[**Enrique Cano López**]
+**Enrique Cano López**
 
 **Responsibilities**
 * Secretary and Evangelist during the official InnerSource Program Office Meetings.
@@ -96,3 +89,12 @@ To be defined.
 * Facilitate interactions across projects and across domains.
 * Working on adopting InnerSource Portal by Teams.
 * Launch a monthly newsletter on technology trends related to Open/InnerSource.
+
+### Metrics Platform Support
+
+To be defined.
+
+**Responsibilities**
+* Metrics Platform deployment, maintenance, bug fixing, and upgrades.
+* Support.
+
