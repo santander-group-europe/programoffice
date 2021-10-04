@@ -29,15 +29,15 @@ The following table shows the ISPO people, together to their roles and responsib
         </tr>
         <tr>
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
-            <td>Daniel Izquierdo Cortázar</td>
+            <td rowspan=1>Daniel Izquierdo Cortázar</td>
         </tr>
         <tr>
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
-            <td>Alberto Pérez García-Plaza</td>
+            <td rowspan=1>Alberto Pérez García-Plaza</td>
         </tr>
         <tr>
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
-            <td>Igor Zubiaurre García</td>
+            <td rowspan=1>Igor Zubiaurre García</td>
         </tr>
            <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
@@ -45,7 +45,7 @@ The following table shows the ISPO people, together to their roles and responsib
         </tr>
         <tr>
             <td><a href="#community-manager--evangelist">Community Manager/Evangelist</td>
-            <td>To be defined</td>
+            <td>Enrique Cano López</td>
         </tr>
     </tbody>
 </table>
@@ -84,13 +84,15 @@ To be defined.
 
 ### Community Manager / Evangelist
 
-To be defined.
+[**Enrique Cano López**]
 
 **Responsibilities**
-* Dynamize the IS initiative.
-* Attract other projects.
-* Look for ambassadors.
-* Facilitate hackathons.
-* Internal marketing.
-* Act as developer advocate, makes developers' life easier.
-* Metrics Platform data exploitation.
+* Secretary and Evangelist during the official InnerSource Program Office Meetings.
+* Discovery of events, acts, documents, manuals, videos and multimedia contents.
+* InnerSource evangelization and engagement in our Community.
+* Report and communicate internally last advances of the InnerSource initiative.
+* Trainings/workshops organization.
+* Celebrate new projects joining the InnerSource initiative and developers participating.
+* Facilitate interactions across projects and across domains.
+* Working on adopting InnerSource Portal by Teams.
+* Launch a monthly newsletter on technology trends related to Open/InnerSource.
