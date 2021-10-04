@@ -9,7 +9,7 @@
 
 ---
 
-## How to get Involved
+## How to get Involved (at the moment only for Organization members)
 * Join the Microsoft Teams InnerSource channel.
   * You can also join the [kanban](https://teams.microsoft.com/l/entity/com.microsoft.teamspace.tab.planner/_djb2_msteams_prefix_2471044500?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A4d3100f1c661432da6b2cfdcafd8c549%40thread.tacv2%22%7D&groupId=f1886bc7-cdad-4513-9544-1c9587de1c77&tenantId=35595a02-4d6d-44ac-99e1-f9ab4cd872db) used to sync. Happy if you help move forward some of the tasks!
 * Collaborate in our GitHub projects.

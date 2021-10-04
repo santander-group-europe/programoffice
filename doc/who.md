@@ -20,23 +20,20 @@ The following table shows the ISPO people, together to their roles and responsib
         <tr>
             <th>Role</th>
             <th>Person in Charge</th>
-            <th>Contact</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=1><a href="#head-of-unit">Head of Unit</a></td>
-            <td rowspan=1>Jesús Alonso</td>
-            <td>jesus.alonsogutierrez@gruposantander.es</td>
+            <td rowspan=1>Jesús Alonso Gutiérrez</td>
         </tr>
         <tr>
-            <td rowspan=2><a href="#innerSource-specialists">InnerSource Specialist</a></td>
-            <td>Daniel Izquierdo</td>
-            <td>dizquierdo@bitergia.com</td>
+            <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
+            <td>Daniel Izquierdo Cortázar</td>
         </tr>
         <tr>
-            <td>Alberto Pérez</td>
-            <td>alpgarcia@bitergia.com</td>
+            <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
+            <td>Alberto Pérez García-Plaza</td>
         </tr>
         <tr>
             <td>Igor Zubiaurre</td>
@@ -44,22 +41,23 @@ The following table shows the ISPO people, together to their roles and responsib
         </tr>
         <tr />
         <tr>
+            <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
+            <td>Igor Zubiaurre García</td>
+        </tr>
+           <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
             <td>To be defined</td>
-            <td>-</td>
         </tr>
         <tr>
             <td><a href="#community-manager--evangelist">Community Manager/Evangelist</td>
             <td>To be defined</td>
-            <td>-</td>
         </tr>
     </tbody>
 </table>
 
 ### Head of Unit
 
-**Jesús Alonso**
-- **e-mail**: jesus.alonsogutierrez@gruposantander.es
+[**Jesús Alonso Gutiérrez**](https://github.com/jesusalonsogut)
 
 **Responsibilities**
 * Define mission and vision, guide the initiative to attract new projects.
@@ -67,11 +65,11 @@ The following table shows the ISPO people, together to their roles and responsib
 
 ### InnerSource Specialists
 
-**Daniel Izquierdo**
-- **e-mail**: dizquierdo@bitergia.com
+[**Daniel Izquierdo Cortázar**](https://github.com/dicortazar)
 
-**Alberto Pérez**
-- **e-mail**: alpgarcia@bitergia.com
+[**Alberto Pérez García-Plaza**](https://github.com/alpgarcia)
+
+[**Igor Zubiaurre García**](https://github.com/fioddor)
 
 **Igor Zubiaurre**
 - **e-mail**: izubiaurre@bitergia.com
