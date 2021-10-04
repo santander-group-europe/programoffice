@@ -22,5 +22,6 @@ The **Santander InnerSource Program Office (ISPO)** focuses on providing help to
   - [Daniel Izquierdo Cortázar (InnerSource Specialist)](/doc/who.md#innerSource-specialists)
   - [Alberto Pérez García-Plaza (InnerSource Specialist)](/doc/who.md#innerSource-specialists)
   - [Igor Zubiaurre García (InnerSource Specialist)](/doc/who.md#innerSource-specialists)
+  - [Enrique Cano López (Community Manager)](/doc/who.md#community-manager--evangelist)
   - [Metrics Platform Support - To be Defined](/doc/who.md#metrics-platform-support)
-  - [Community Manager - To be Defined](/doc/who.md#community-manager--evangelist)
+
