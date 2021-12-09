@@ -9,7 +9,7 @@
 
 ---
 
-# Welcome Santander InnerSource Program Office!
+# Welcome to the Santander InnerSource Program Office!
 
 The **Santander InnerSource Program Office (ISPO)** focuses on providing help to projects and teams through their journey towards adopting open source development practices internally in the bank.
 
