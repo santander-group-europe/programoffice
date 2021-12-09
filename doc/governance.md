@@ -55,6 +55,6 @@ The following tools are available for the community to build the open space of t
 | Issue Tracker​ | JIRA Software by Atlassian (SaaS) <br />GitHub Issues​ |
 | Documentation Platform​ | Confluence Software by Atlassian (SaaS)<br />GitHub Pages<br />Microsoft Teams ISPO channels​ |
 | Forums or Chat Platform​ | Microsoft Teams​ |
-| Metrics  & KPIs Platform​ | GrimoireLab (Front TBC)​ |
+| Metrics  & KPIs Platform​ | GPSource (based on GrimnoireLab - Bitergua Analytics Platform)​ |
 | Projects single entry point​ | Santander InnerSource Portal​​ |
 | Announcements and news​ | Santander InnerSource Portal​ <br /> Microsoft Teams InnerSource Community​ |
