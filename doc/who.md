@@ -45,7 +45,7 @@ The following table shows the ISPO people, together to their roles and responsib
         </tr>
            <tr>
             <td><a href="#metrics-platform-support">Metrics Platform Support</a></td>
-            <td>To be defined</td>
+            <td>Alberto Pérez García-Plaza</td>
         </tr>
 
     </tbody>
@@ -92,7 +92,7 @@ The following table shows the ISPO people, together to their roles and responsib
 
 ### Metrics Platform Support
 
-To be defined.
+[**Alberto Pérez García-Plaza**](https://github.com/alpgarcia)
 
 **Responsibilities**
 * Metrics Platform deployment, maintenance, bug fixing, and upgrades.
