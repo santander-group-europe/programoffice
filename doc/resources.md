@@ -13,3 +13,4 @@
 The **InnerSource Program Office** currently offers the following resources to help on your InnerSource journey:
 
 * [InnerSource Template Project](https://github.com/santander-group-europe/innersource-projecttemplate): a GitHub project to be used as template for creating InnerSource ready projects.
+* [Santander InnerSource Project Portal](https://innersourceportal.santander.com): our Project Portal and Community gateway for everyone interested in this collaborative way of working. Available at https://innersourceportal.santander.com
