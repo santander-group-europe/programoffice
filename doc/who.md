@@ -36,6 +36,11 @@ The following table shows the ISPO people, together to their roles and responsib
             <td rowspan=1>Alberto Pérez García-Plaza</td>
         </tr>
         <tr>
+            <td>Igor Zubiaurre</td>
+            <td>izubiaurre@bitergia.com</td>
+        </tr>
+        <tr />
+        <tr>
             <td rowspan=1><a href="#innerSource-specialists">InnerSource Specialist</a></td>
             <td rowspan=1>Igor Zubiaurre García</td>
                  <tr>
@@ -66,6 +71,9 @@ The following table shows the ISPO people, together to their roles and responsib
 [**Alberto Pérez García-Plaza**](https://github.com/alpgarcia)
 
 [**Igor Zubiaurre García**](https://github.com/fioddor)
+
+**Igor Zubiaurre**
+- **e-mail**: izubiaurre@bitergia.com
 
 **Responsibilities**
 * Assist and help projects to:
